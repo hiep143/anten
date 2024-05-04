@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EDP0g57ZQwWRKV+VbQg9nUaV74H9d0z6GbmVn1pYfzEKewh5d9fXNQNipzC5n4SpYnH5Y23ruOQSTdUA10ZLHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\1\\1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\unitsnet\\6.0.0-pre005\\unitsnet.6.0.0-pre005.nupkg.sha512"
+  ],
+  "logs": []
+}
